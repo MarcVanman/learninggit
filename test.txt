@@ -1,5 +1,2 @@
-This is a test
-This is my first test
-This is still a test
-
-hey det her er en linje jeg glemte
+This is all wrong
+Also wrong
